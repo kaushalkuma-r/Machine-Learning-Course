@@ -30,8 +30,12 @@ covid-data.csv: This file contains statistics related to covid-19 new cases in d
 ID3-A. Compare the accuracy and performance of CART and ID3-A. Apply this approach considering the entire dataset.**
 **II. Perform K-Means clustering on data examples. Using subsets in different clusters, design a “K-means Forest”. Predict results by taking the average (or
 weighted average by comparing test examples with cluster centroid) of results predicted by trees in the forest.**
+
+
       _A. Use ID3-A to create trees in the forest.
+      
       B. Use CART to create trees in the forest.
+      
       C. Compare the accuracy and performance of K-means Forests created using CART and ID3-A for parts A. and B._
 
 Example: Let K=3, Then part A. 3 ID3-A trees: Forest 1. Compute result 1. Then part B. 3
