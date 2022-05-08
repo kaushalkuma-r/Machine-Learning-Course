@@ -42,12 +42,4 @@ Example: Let K=3, Then part A. 3 ID3-A trees: Forest 1. Compute result 1. Then p
 CART trees: Forest 2. Compute Result 2. Compare Result 1 and Result 2.
 
 
-_Note:
-Language: Python, Java, C++, MATLAB - - any of your choice
-Use of any in-built libraries is discouraged.
-Appropriate data pre-processing, data validation approaches and post-processing approaches
-such as pruning should be used at requisite places.
-Make sure the model is not under-fit and over-fit.
-Report your code, results and observations.
-The assignment can be done in groups of less than or equal to 2. The group will remain for
-further assignments or till any further notice is given._
+
